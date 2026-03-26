@@ -27,3 +27,12 @@ All analysis files are located in the `analysis/` folder:
 
 ## Notes
 This project is part of a growing portfolio of Excel projects. More projects will be added as I continue the Google Data Analytics Certificate and other data-related work.
+
+### Data Source
+
+The raw data for this project was obtained from the publicly available Pizza Place Sales dataset on Kaggle:
+https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
+
+Source: Kaggle
+Date accessed: March 24, 2026
+License/Usage: Available for personal and educational use 
