@@ -45,7 +45,18 @@ Visualizations:
 - Monthly Sales Trend  
 - Revenue by Country  
 - Excluding UK Comparison View  
-- KPI Dashboard (Sales, Orders, Quantity, AOV)  
+- KPI Dashboard (Sales, Orders, Quantity, AOV)
+
+  ---
+
+📚 Data Source  
+- **Dataset:** Retail Transactions: Online Sales Dataset  
+- **Author:** Shashank S (Kaggle)  
+- **Platform:** Kaggle  
+- **Updated:** 2024  
+- **Accessed:** 08 April 2026  
+
+The dataset contains detailed retail transaction records including invoices, product descriptions, quantities, pricing, and customer information used for end-to-end Excel analysis.
 
 ---
 
