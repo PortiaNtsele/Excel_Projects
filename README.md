@@ -1,15 +1,18 @@
-# Excel Projects Portfolio
+## 📁 Projects
 
-This repository contains Excel projects demonstrating data analysis, cleaning, and visualization skills. Each project includes datasets, analysis files, and visualizations to showcase practical skills in Excel.
+### 🍕 Pizza Sales Analysis
+👉 [View Project](./projects/pizza_sales/)
 
-## Projects
+Analyzes a pizza shop’s sales data to understand revenue trends and product performance. Includes data cleaning, merging multiple datasets, and pivot table visualizations.
 
-1. [Pizza Sales Analysis](projects/pizza_sales/README.md)  
-   - Analyzes a pizza shop’s sales data to understand revenue trends and product performance. Includes data cleaning, merging multiple datasets, and pivot table visualizations.
+---
 
-2. Future Project  
-   - Details will be added when the project is completed.
+### 📊 Retail Sales Analysis
+👉 [View Project](./projects/retail_sales/)
 
-## About
-This portfolio showcases practical experience in Excel for data analysis and visualization. As I continue the Google Data Analytics Certificate and other data-related projects, more Excel projects will be added.
+Analyzes retail transaction data (2009–2011) to identify revenue trends, customer behavior, and country-level performance. Includes KPIs, dashboards, and interactive visual analysis.
 
+---
+
+### 🚀 Future Project
+Details will be added when the project is completed.
