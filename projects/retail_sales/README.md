@@ -48,13 +48,16 @@ Visualizations:
 - KPI Dashboard (Sales, Orders, Quantity, AOV)
 
   ---
-
+  
 📚 Data Source  
 - **Dataset:** Retail Transactions: Online Sales Dataset  
-- **Author:** Shashank S (Kaggle)  
+- **Author:** Shashank S  
 - **Platform:** Kaggle  
+- **Dataset Link:** https://www.kaggle.com/datasets/shashanks1202/retail-transactions-online-sales-dataset  
 - **Updated:** 2024  
 - **Accessed:** 08 April 2026  
+
+The dataset contains detailed retail transaction records from 2009–2011, including invoices, product descriptions, quantities, pricing, and customer information used for end-to-end Excel analysis.
 
 The dataset contains detailed retail transaction records including invoices, product descriptions, quantities, pricing, and customer information used for end-to-end Excel analysis.
 
